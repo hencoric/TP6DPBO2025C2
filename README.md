@@ -82,5 +82,7 @@ Komponen Utama Program:
 
 # Dokumentasi
 
+### SILAHKAN DI TUNGGU SAMPAI GIF KELUAR
+
 ![Demo Game](ScreenRecord/ScreenRecordTP6.gif)
 
