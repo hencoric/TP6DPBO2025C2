@@ -78,4 +78,8 @@ Komponen Utama Program:
 
 - Setelah game over, permainan akan menampilkan notifikasi "Game Over" dengan opsi untuk merestart permainan.  
 
-- Pemain dapat menekan tombol "R" untuk merestart permainan, yang akan mengatur ulang posisi burung dan skor, serta menampilkan permainan kembali.  
+- Pemain dapat menekan tombol "R" untuk merestart permainan, yang akan mengatur ulang posisi burung dan skor, serta menampilkan permainan kembali.
+
+# Dokumentasi
+
+
